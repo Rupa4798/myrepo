@@ -10,4 +10,5 @@ https://docs.docker.com/engine/install/linux-postinstall/
 -  sudo apt install  conntrack
 -  minikube start --driver=docker
 -  minikube status
+-  minikube version 
 -  Verify :  kubectl get pods 
